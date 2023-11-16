@@ -17,6 +17,10 @@ sidebar:
       - search
       - relative-nav
       - additional-config
+  - label: test_nesting
+    children:
+      - testdoc1
+      - testdoc2
   - development
 
 defaults:
