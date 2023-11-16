@@ -1,4 +1,4 @@
-title: ds_template
+# title: ds_template
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
 permalink: pretty
