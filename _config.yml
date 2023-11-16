@@ -1,2 +1,19 @@
 title: ds_template
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+
+sidebar:
+  - getting-started
+  - label: Customization
+    children:
+      - sidebar
+      - search
+      - relative-nav
+      - additional-config
+  - development
+
+defaults:
+  - scope:
+      path: ''
+      type: 'pages'
+    values:
+      layout: default
