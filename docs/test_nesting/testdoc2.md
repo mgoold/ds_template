@@ -1,6 +1,6 @@
 ---
 id: testdoc2
-title: Additional Config
+title: testdoc2
 previous_page: testdoc1
 next_page: development
 ---
