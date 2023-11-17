@@ -1,6 +1,7 @@
 ---
 id: development
 title: Development
+previous_page: testdoc2
 ---
 
 To set up your environment to develop this theme, install Jekyll.
